@@ -1,4 +1,4 @@
-# CensusGov2TopoJSON
+# TopoJSON Maps
 
 TopoJSON map files created from the [2024 U.S. Census Bureau's Cartographic Boundary Files](https://www.census.gov/geographies/mapping-files/time-series/geo/cartographic-boundary.html)
 
